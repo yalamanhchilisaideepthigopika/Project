@@ -518,10 +518,9 @@ section {
 .about {
   background: #466393;
   background-size: cover;
-  padding: 60px;
+  padding: 60px 0;
   position: relative;
   color: #fff;
-  padding-bottom: 80px;
 }
 
 .about .content {
